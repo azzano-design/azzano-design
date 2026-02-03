@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azzano-design
-- 👀 I’m interested in custom builds for Wordpress or Node JS
+- 👀 I’m focused heavily on making small games and apps
 - 📫 How to reach me https://azzano.design
 
 <!---
