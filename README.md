@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azzano-design
-- 👀 I’m focused heavily on making small games and apps
+- 👀 I’m focused heavily on making apps for artists, and the occasional small game.
 - 📫 How to reach me https://azzano.design
 
 <!---
